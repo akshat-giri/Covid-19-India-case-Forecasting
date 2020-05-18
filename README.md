@@ -1,4 +1,4 @@
-<h1 align='center'>Covid-19-India-case-Forcasting</h1>
+<h1 align='center'>Covid-19-India-case-Forecasting</h1>
 
 <h4 align='center'>data source:- https://www.kaggle.com/sudalairajkumar/covid19-in-india</h4>
 
